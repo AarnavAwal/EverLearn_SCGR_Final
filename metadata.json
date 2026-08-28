@@ -1,0 +1,7 @@
+{
+  "name": "Everlearn",
+  "description": "Minimalist, modern learning analytics & gap intervention platform for classes, sections, and gamified student growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
